@@ -1,0 +1,23 @@
+name: hds_python
+channels:
+  - conda-forge
+dependencies:
+  - black
+  - flake8
+  - hatch
+  - jupyterlab=4.5.4
+  - jupyterlab-spellchecker=0.8.4
+  - matplotlib=3.10.8
+  - nbqa
+  - nodejs=24.13.0
+  - numpy=2.4.2
+  - pandas=2.3.3
+  - pip=26.0.1
+  - plotly=6.5.0
+  - python=3.12
+  - pytest=9.0.2
+  - py7zr=1.0.0
+  - rich=14.2.0
+  - scikit-learn=1.8.0
+  - scipy==1.16.3
+  - statsmodels=0.14.6   
