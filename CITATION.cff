@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Teaching materials for Python for Health and Life Sciences (HPDM171)
+message: >-
+  If you use this code, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Thomas
+    family-names: Monks
+    affiliation: University of Exeter
+    orcid: 'https://orcid.org/0000-0003-2631-4481'
+repository-code: 'https://github.com/health-data-science-OR/hpdm171/'
+keywords:
+  - health and life sciences
+  - python
+  - open science
+license: MIT
